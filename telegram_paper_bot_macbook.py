@@ -15,9 +15,9 @@ from telebot.types import Message
 
 
 # --- CONFIGURATION ---
-TOKEN = "7676094696:AAEQa70ooBDFCGkIil-vjq2cekUksM8LxLs"
-Entrez.email = "041198andrey@mail.ru"
-CHAT_ID = "1982953374"  # Keep as string for easier comparison
+TOKEN = "xxxxxx"
+Entrez.email = "xxxxxx"
+CHAT_ID = "xxxxxx"
 KEYWORDS = ["machine learning", "scRNA-seq", "genomics", "deep learning", "single cell transcriptomics"]
 
 # Initialize bot
